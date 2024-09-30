@@ -19,5 +19,5 @@ Regards,
 Zerosaturnn
 
 **Author:**
-- **Zerosaturnn**
-- **Discord: zerosaturn_**
+- **VesperaIX**
+- **Discord: VesperaIX**
