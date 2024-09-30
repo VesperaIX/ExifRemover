@@ -5,7 +5,7 @@
 Penghapus Metadata gambar
 
 # Instalation
-`$ git clone https://github.com/ZeroSaturnn/ExifRemover && cd ExifRemover`<br>
+`$ git clone https://github.com/VesperaIX/ExifRemover && cd ExifRemover`<br>
 
 # Usage
 `$ bash exrem.sh -f <filename> -o <output_name>`
